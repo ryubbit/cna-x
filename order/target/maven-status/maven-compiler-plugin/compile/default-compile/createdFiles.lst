@@ -1,0 +1,12 @@
+demo\OrderCanceled.class
+demo\OrderRepository.class
+demo\PolicyHandler.class
+demo\AbstractEvent$1.class
+demo\OrderController.class
+demo\OrderApplication.class
+demo\Ordered.class
+demo\AbstractEvent.class
+demo\external\Cancellation.class
+demo\Order.class
+demo\external\CancellationService.class
+demo\config\kafka\KafkaProcessor.class
